@@ -1,0 +1,22 @@
+{
+  "name": "Scr8tch",
+  "short_name": "Scr8tch",
+  "description": "Train to Scratch — 8-Week Performance Program",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020a18",
+  "theme_color": "#020a18",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
